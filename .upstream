@@ -1,0 +1,5 @@
+{
+    "name": "crdroid",
+    "fetch": "https://github.com/crdroidandroid/android_external_arm-optimized-routines",
+    "revision": "refs/heads/13.0"
+}
